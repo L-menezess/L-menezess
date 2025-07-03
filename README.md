@@ -5,7 +5,7 @@
   <a href="https://www.linkedin.com/in/lucasmenezess/">
     <img src="https://img.shields.io/badge/LinkedIn-Lucas%20Menezes-blue?style=flat&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:seuemail@dominio.com">
+  <a href="mailto:mz_lucasmenezes@hotmail.com">
     <img src="https://img.shields.io/badge/Email-contato-red?style=flat&logo=gmail&logoColor=white" />
   </a>
 </p>
