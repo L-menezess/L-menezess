@@ -11,4 +11,4 @@ Python • Power BI • Excel • SQL • Pandas • Scikit-Learn
 - 📈 [Curva S Engenharia](https://github.com/usuario/curva-s-engenharia)
 - ⚙️ [Análise de Retrabalho em Projetos](https://github.com/usuario/powerbi-retrabalho-horas)
 
-📫 Me encontre no [LinkedIn](https://linkedin.com/in/seulink)
+📫 Me encontre no [LinkedIn](https://linkedin.com/in/lucasmenezess)
