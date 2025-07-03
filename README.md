@@ -1,13 +1,14 @@
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=L-menezess&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gruvbox&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://github-readme-stats.vercel.app/api?username=L-menezess&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gruvbox&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=L-menezess&radius=16&theme=gruvbox&area=true&order=5" height="300" alt="activity-graph graph"  />
-</div>
+## 👋 Olá, sou Lucas Menezes!
 
-###
+Sou Analista de Dados com experiência em projetos industriais, engenharia e bioenergia. Aqui compartilho meus projetos de dados aplicados à engenharia.
 
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4" alt="Layout with last medium posts"  />
-</div>
+### 🔧 Ferramentas
+Python • Power BI • Excel • SQL • Pandas • Scikit-Learn
 
-###
+### 📊 Projetos em Destaque
+
+- 🔎 [Análise de Vendas Olist](https://github.com/usuario/analise-vendas-olist)
+- 📈 [Curva S Engenharia](https://github.com/usuario/curva-s-engenharia)
+- ⚙️ [Análise de Retrabalho em Projetos](https://github.com/usuario/powerbi-retrabalho-horas)
+
+📫 Me encontre no [LinkedIn](https://linkedin.com/in/seulink)
