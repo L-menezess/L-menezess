@@ -46,7 +46,7 @@ Atuo com análise de dados aplicados a projetos industriais e bioenergia, com fo
 ## 📫 Contato
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/lucasmenezess/)
-- 📧 Email: seuemail@dominio.com
+- 📧 Email: mz_lucasmenezes@hotmail.com
 - 🌐 GitHub: [lucasmenezes](https://github.com/lucasmenezes)
 
 ---
