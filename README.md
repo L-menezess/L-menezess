@@ -37,7 +37,7 @@ Atuo com análise de dados aplicados a projetos industriais e bioenergia, com fo
 
 | Projeto | Descrição |
 |--------|-----------|
-| [📊 Análise de Vendas]([https://github.com/usuario/projeto-olist](https://github.com/L-menezess/analise-vendas-2019)) | Estudo exploratório e análise de comportamento do consumidor com Python. |
+| [📊 Análise de Vendas]([https://github.com/usuario/projeto-olist](https://github.com/L-menezess/analise-vendas-2019) | Estudo exploratório e análise de comportamento do consumidor com Python. |
 | [📈 Curva S Engenharia](https://github.com/usuario/curva-s-engenharia) | Construção de curva S para planejamento físico-financeiro de projetos industriais. |
 | [⏱️ Retrabalho em Projetos](https://github.com/usuario/retrabalho-projetos) | Dashboard no Power BI para monitoramento de horas improdutivas e retrabalho técnico. |
 
